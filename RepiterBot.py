@@ -15,4 +15,5 @@ def repeat_all_messages(message):
 
 
 if __name__ == '__main__':
+    print('bot_started')
     bot.infinity_polling()
